@@ -16,15 +16,13 @@
 
 <h3 align="left">Interests:</h3>
 <ul>
-  <li> 💻 Binary Exploitation and Reverse Engineering</li>
+  <li> 💣 Binary Exploitation and Reverse Engineering</li>
   <li> 🖥️ Configuring and maintaining servers and Home-Labs</li>
   <li> 🐧 Linux</li>
-  <li> 🌐 Networking and Security</li>
+  <li> 🖧 Networking and Security</li>
   <li> ☁️ Cloud Computing</li>
-  <li> 🐘 C Language Programming</li>
-  <li> 🐚 Bash Scripting</li>
-  <li> 🐍 Python Automation</li>
-  <li> 🚀 Server-Side Development</li>
+  <li> 💡 Problem Solving using C</li>
+  <li> 🔧 Automation using Bash & Python</li>
   <li> 🐳 Docker Containers</li>
   <li> 🕵️ Playing CTFs</li>
   <li> 🌐 Web Development</li>
