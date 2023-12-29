@@ -46,9 +46,9 @@
 </p>
 
 <div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zedsalim&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="zedsalim" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zedsalim&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="zedsalim" />
   <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=zedsalim&show_icons=true&locale=en&theme=tokyonight" alt="zedsalim" />
   <br>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=zedsalim&show_icons=true&locale=en&theme=tokyonight" alt="zedsalim" />
-  <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=zedsalim&theme=tokyonight" alt="zedsalim" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zedsalim&theme=tokyonight" alt="zedsalim" />
 </div>
