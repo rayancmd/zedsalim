@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [zedsalim](https://github.com/zedsalim)
 
-- 💬 Ask me about **zeros and ones, C, Linux, Networking, or sysadmin stuff**
+- 💬 Ask me about **zeros and ones, C, Linux, Networking and Sysadmin stuff**
 
 - 📫 How to reach me **salim.zaidi@univ-bouira.dz**
 
