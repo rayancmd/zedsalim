@@ -37,7 +37,7 @@
   <a href="https://www.vim.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg" alt="vim" width="40" height="40"/> </a>
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/> </a> 
   <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  <a href="https://www.gnu.org/software/gdb/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/7/7f/GDB_Archer_Fish_by_Andreas_Arnez.svg" alt="gdb" width="40" height="40"/> </a>
+  <a href="https://www.gnu.org/software/gdb/" target="_blank" rel="noreferrer"> <img src="gdb.svg" alt="gdb" width="40" height="40"/> </a>
   <a href="https://ghidra-sre.org/" target="_blank" rel="noreferrer"> <img src="ghidra.png" alt="ghidra" width="40" height="40"/> </a>
   <a href="https://rada.re/n/" target="_blank" rel="noreferrer"> <img src="r2.png" alt="radare2" width="40" height="40"/> </a>
   <a href="https://www.proxmox.com/proxmox-ve" target="_blank" rel="noreferrer"> <img src="proxmox.png" alt="proxmox" width="40" height="40"/> </a>
