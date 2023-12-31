@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Salim Zaidi</h1>
 <h3 align="center">I'm a Computer Science student passionate about binary exploitation, reverse engineering, low-level programming, linux, networking, cloud computing and sysadmin stuff. Enjoys solving problems using C language, configuring and maintaining servers and home-labs, automating tasks using bash and python, playing CTFs and exploring web development.</h3>
-<img align="right" alt="Coding" width="400" src="coffee_while_working.gif">
+<img align="right" alt="coffee_while_working" width="400" src="coffee_while_working.gif">
 
 - 📚 I’m currently learning **Binary Exploitation and Reverse Engineering**
 
@@ -36,7 +36,10 @@
    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> </a>
   <a href="https://www.vim.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg" alt="vim" width="40" height="40"/> </a>
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/> </a> 
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+  <a href="https://www.gnu.org/software/gdb/" target="_blank" rel="noreferrer"> <img src="gdb.png" alt="gdb" width="40" height="40"/> </a>
+  <a href="https://ghidra-sre.org/" target="_blank" rel="noreferrer"> <img src="ghidra.png" alt="ghidra" width="40" height="40"/> </a>
+  <a href="https://rada.re/n/" target="_blank" rel="noreferrer"> <img src="r2.png" alt="radare2" width="40" height="40"/> </a>
   <a href="https://www.proxmox.com/proxmox-ve" target="_blank" rel="noreferrer"> <img src="proxmox.png" alt="proxmox" width="40" height="40"/> </a>
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/> </a> 
   <a href="https://en.wikipedia.org/wiki/Virtualization" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/48/000000/virtual-machine.png" alt="virtualization" width="40" height="40"/> </a>
