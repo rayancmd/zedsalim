@@ -5,11 +5,11 @@
 <img align="right" alt="coffee_while_working" width="400" src="coffee_while_working.gif">
 
 - 📚 I’m currently learning **Binary Exploitation and Reverse Engineering**
-- 
+
 - 🚀 All of my projects are available at [zedsalim](https://github.com/zedsalim)
-- 
+
 - ✉️ Contact me at **salim.zaidi@univ-bouira.dz**
-- 
+
 - 💀 I told my computer a joke, but it didn't laugh. It said **Segmentation Fault**
 
 <h2 align="left">Interests:</h2>
