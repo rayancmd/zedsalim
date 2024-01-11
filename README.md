@@ -52,9 +52,9 @@
 </p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zedsalim&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="zedsalim" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zedsalim&theme=prussian&hide_border=true&include_all_commits=false&count_private=false&layout=compact"/>
   <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=zedsalim&show_icons=true&locale=en&theme=tokyonight" alt="zedsalim" />
+  <img src="https://github-readme-stats.vercel.app/api?username=zedsalim&theme=prussian&hide_border=true&include_all_commits=false&count_private=false"/>
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zedsalim&theme=tokyonight" alt="zedsalim" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zedsalim&theme=prussian&hide_border=true"/>
 </div>
