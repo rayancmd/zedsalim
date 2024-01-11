@@ -12,7 +12,7 @@
 
 - 💀 I told my computer a joke, but it didn't laugh. It said **Segmentation Fault**
 
-<h3 align="left">Interests:</h3>
+<h2 align="left">Interests:</h2>
 <ul>
   <li> 💣 Binary Exploitation & Reverse Engineering</li>
   <li> 🖥️ Configuring and maintaining servers & Home-Labs</li>
@@ -25,7 +25,7 @@
   <li> 🌐 Web Development</li>
 </ul>
 
-<h3 align="left">Languages and Tools:</h3>
+<h2 align="left">Languages and Tools:</h2>
 <p align="left"> 
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
   <a href="https://c-faq.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
@@ -51,6 +51,7 @@
   <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="sqlite" width="40" height="40"/> </a>
 </p>
 
+<h2 align="left">Github Stats:</h2>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zedsalim&theme=prussian&hide_border=true&include_all_commits=false&count_private=false&layout=compact"/>
   <br>
