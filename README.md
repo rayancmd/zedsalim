@@ -5,25 +5,21 @@
 <img align="right" alt="coffee_while_working" width="400" src="coffee_while_working.gif">
 
 - 📚 I’m currently learning **Binary Exploitation and Reverse Engineering**
-
 - 🚀 All of my projects are available at [zedsalim](https://github.com/zedsalim)
-
 - ✉️ Contact me at **salim.zaidi@univ-bouira.dz**
-
 - 💀 I told my computer a joke, but it didn't laugh. It said **Segmentation Fault**
 
 <h2 align="left">Interests:</h2>
-<ul>
-  <li> 💣 Binary Exploitation & Reverse Engineering</li>
-  <li> 🖥️ Configuring and maintaining servers & Home-Labs</li>
-  <li> 🐧 Linux & Sysadmin stuff</li>
-  <li> 🖧 Networking & Cloud</li>
-  <li> 💡 C Programming & Problem Solving</li>
-  <li> 🔧 Automation using Bash & Python</li>
-  <li> 🐳 Docker Containers</li>
-  <li> 🕵️ Playing CTFs</li>
-  <li> 🌐 Web Development</li>
-</ul>
+
+- 💣 Binary Exploitation & Reverse Engineering
+- 🖥️ Configuring and maintaining servers & Home-Labs
+- 🐧 Linux & Sysadmin stuff
+- 🖧 Networking & Cloud
+- 💡 C Programming & Problem Solving
+- 🔧 Automation using Bash & Python
+- 🐳 Docker Containers
+- 🕵️ Playing CTFs
+- 🌐 Web Development
 
 <h2 align="left">Languages and Tools:</h2>
 
