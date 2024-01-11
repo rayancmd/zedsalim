@@ -1,14 +1,12 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&duration=3000&pause=1000&color=2497F7&center=true&vCenter=true&random=false&width=1000&lines=Exploring+the+art+of+hacking+and+decoding+binary;Tinkering+with+low-level+programming+and+assembly;Loving+everything+about+Linux+and+Networking;Having+fun+with+Servers%2C+Home-Labs+and+Docker+;Solving+problems+with+C+language;Automating+tasks+using+Bash+and+Python" alt="Typing SVG" /></a>
 
 <h1 align="center">Hi 👋, I'm Salim Zaidi</h1>
-<h3 align="center">I'm a Computer Science student passionate about binary exploitation, reverse engineering, low-level programming, linux, networking, cloud computing and sysadmin stuff. Enjoys solving problems using C language, configuring and maintaining servers and home-labs, automating tasks using bash and python, playing CTFs and exploring web development.</h3>
+<h3 align="center">Computer Science student passionate about Binary Exploitation, Reverse Engineering and Low-Level Programming.</h3>
 <img align="right" alt="coffee_while_working" width="400" src="coffee_while_working.gif">
 
 - 📚 I’m currently learning **Binary Exploitation and Reverse Engineering**
 
 - 🚀 All of my projects are available at [zedsalim](https://github.com/zedsalim)
-
-- 💬 Ask me about **zeros and ones, C, Linux, Networking and Sysadmin stuff**
 
 - ✉️ Contact me at **salim.zaidi@univ-bouira.dz**
 
@@ -16,12 +14,11 @@
 
 <h3 align="left">Interests:</h3>
 <ul>
-  <li> 💣 Binary Exploitation and Reverse Engineering</li>
-  <li> 🖥️ Configuring and maintaining servers and Home-Labs</li>
-  <li> 🐧 Linux</li>
-  <li> 🖧 Networking and Security</li>
-  <li> ☁️ Cloud Computing</li>
-  <li> 💡 Problem Solving using C</li>
+  <li> 💣 Binary Exploitation & Reverse Engineering</li>
+  <li> 🖥️ Configuring and maintaining servers & Home-Labs</li>
+  <li> 🐧 Linux & Sysadmin stuff</li>
+  <li> 🖧 Networking & Cloud</li>
+  <li> 💡 C Programming & Problem Solving</li>
   <li> 🔧 Automation using Bash & Python</li>
   <li> 🐳 Docker Containers</li>
   <li> 🕵️ Playing CTFs</li>
