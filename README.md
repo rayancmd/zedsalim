@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Salim Zaidi</h1>
 <h3 align="center">Computer Science student passionate about Binary Exploitation, Reverse Engineering and Low-Level Programming.</h3>
-<!-- <img align="right" alt="coffee_while_working" width="400" src="coffee_while_working.gif"> -->
+<img align="right" alt="coffee_while_working" width="400" src="coffee_while_working.gif">
 
 - 📚 I’m currently learning **Binary Exploitation and Reverse Engineering**
 
