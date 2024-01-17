@@ -1,8 +1,6 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&duration=3000&pause=1000&color=2497F7&center=true&vCenter=true&random=false&width=1000&lines=Exploring+the+art+of+hacking+and+decoding+binary;Tinkering+with+low-level+programming+and+assembly;Loving+everything+about+Linux+and+Networking;Having+fun+with+Servers%2C+Home-Labs+and+Docker+;Solving+problems+with+C+language;Automating+tasks+using+Bash+and+Python" alt="Typing SVG" /></a>
-
+<img align="center" alt="life" width="600" src="life.png">
 <h1 align="center">Hi 👋, I'm Salim Zaidi</h1>
 <h2 align="center">Computer Science student passionate about Binary Exploitation, Reverse Engineering and Low-Level Programming.</h2>
-<img align="right" alt="coffee_while_working" width="400" src="error404.gif">
 
 - 📚 I’m currently learning **Binary Exploitation and Reverse Engineering**
 
