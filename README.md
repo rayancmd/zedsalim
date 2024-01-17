@@ -1,12 +1,6 @@
-<head>
-    <style>
-        img.center {
-            display: block;
-            margin: 0 auto;
-        }
-    </style>
-</head>
-<img class="center" alt="life" width="550" src="life.png">
+<p align="center">
+    <img alt="life" width="550" src="life.png">
+</p>
 <h1 align="center">Hi 👋, I'm Salim Zaidi</h1>
 <h2 align="center">Computer Science student passionate about Binary Exploitation, Reverse Engineering and Low-Level Programming.</h2>
 
