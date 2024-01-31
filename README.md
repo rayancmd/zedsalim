@@ -2,9 +2,7 @@
     <img alt="life" width="550" src="life.png">
 </p>
 <h1 align="center">Hi 👋, I'm Salim Zaidi</h1>
-<h2 align="center">Computer Science student passionate about Binary Exploitation, Reverse Engineering and Low-Level Programming.</h2>
-
-- 📚 I’m currently learning **Binary Exploitation and Reverse Engineering**
+<h2 align="center">Computer Science student passionate about Binary Exploitation, Low-Level Programming and Web Development.</h2>
 
 - 🚀 All of my projects are available at [zedsalim](https://github.com/zedsalim)
 
@@ -18,11 +16,11 @@
 - 🖥️ Configuring and maintaining servers & Home-Labs
 - 🐧 Linux & Sysadmin stuff
 - 🖧 Networking & Cloud
+- 🌐 Web Development
 - 💡 C Programming & Problem Solving
 - 🔧 Automation using Bash & Python
 - 🐳 Docker Containers
 - 🕵️ Playing CTFs
-- 🌐 Web Development
 
 <h2 align="left">Languages and Tools:</h2>
 
