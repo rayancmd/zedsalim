@@ -17,7 +17,7 @@
 - 🐧 Linux & Sysadmin stuff
 - 🖧 Networking & Cloud
 - 🌐 Web Development
-- 💡 C Programming & Problem Solving
+- 💡 Problem Solving
 - 🔧 Automation using Bash & Python
 - 🐳 Docker Containers
 - 🕵️ Playing CTFs
