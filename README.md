@@ -6,7 +6,7 @@
 
 - 🚀 All of my projects are available at [zedsalim](https://github.com/zedsalim)
 
-- ✉️ Contact me at **salim.zaidi@univ-bouira.dz**
+- ✉️ Contact me at **zedsalim@proton.me**
 
 - 💀 I told my computer a joke, but it didn't laugh. It said **Segmentation Fault**
 
