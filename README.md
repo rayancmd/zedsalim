@@ -20,6 +20,7 @@
 - 🔧 Automation using Bash & Python
 - 💣 Binary Exploitation & Reverse Engineering
 - 💡 Problem Solving
+- 🎨 Design
 
 <h2 align="left">Languages and Tools:</h2>
 
@@ -47,6 +48,7 @@
 [<img src="webmin.png" alt="webmin" width="40" height="40">](https://www.webmin.com/)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40">](https://www.mysql.com/)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="SQLite" width="40" height="40">](https://www.sqlite.org/)
+[<img src="ps.png" alt="Photoshop" width="40" height="40">](https://en.wikipedia.org/wiki/Adobe_Photoshop)
 [<img src="gdb.svg" alt="GDB" width="40" height="40">](https://www.gnu.org/software/gdb/)
 [<img src="ghidra.png" alt="Ghidra" width="40" height="40">](https://ghidra-sre.org/)
 [<img src="r2.png" alt="Radare2" width="40" height="40">](https://rada.re/n/)
