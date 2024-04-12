@@ -23,9 +23,11 @@
 - 🎨 Design
 
 <h2 align="left">Web Projects:</h2>
-- [Garanda Tech](https://garandatech.com) - Gaming store specializing in PC parts, accessories, and repair services.
-- [Shoe Algeria](https://shoealgeria.com) - E-commerce platform dedicated to footwear, offering a wide range of shoes for all occasions.
-- [CS Bouira](https://csbouira.netlify.app) - Educational platform providing courses, exams, and PDF resources for students at my university.
+ <ul>
+        <li><a href="https://garandatech.com" target="_blank">Garanda Tech</a> - An online gaming store specializing in PC parts, accessories, and repair services.</li>
+        <li><a href="https://shoealgeria.com" target="_blank">Shoe Algeria</a> - E-commerce platform dedicated to footwear, offering a wide range of shoes for all occasions.</li>
+        <li><a href="https://csbouira.netlify.app" target="_blank">CS Bouira</a> - Educational platform providing courses, exams, and PDF resources for students at my university.</li>
+    </ul>
 
 <h2 align="left">Languages and Tools:</h2>
 
