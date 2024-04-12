@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Salim Zaidi</h1>
 <h2 align="center">Computer Science student passionate about System Administration, Web Development and Low-Level Programming</h2>
 
-- 🚀 All of my projects are available at [zedsalim](https://github.com/zedsalim)
+- 🚀 All of my projects are available at my [Github](https://github.com/zedsalim)
 
 - ✉️ Contact me at **zedsalim@proton.me**
 
@@ -21,6 +21,11 @@
 - 💣 Binary Exploitation & Reverse Engineering
 - 💡 Problem Solving
 - 🎨 Design
+
+<h2 align="left">Web Projects:</h2>
+- [Garanda Tech](https://garandatech.com) - Gaming store specializing in PC parts, accessories, and repair services.
+- [Shoe Algeria](https://shoealgeria.com) - E-commerce platform dedicated to footwear, offering a wide range of shoes for all occasions.
+- [CS Bouira](https://csbouira.netlify.app) - Educational platform providing courses, exams, and PDF resources for students at my university.
 
 <h2 align="left">Languages and Tools:</h2>
 
