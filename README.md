@@ -8,7 +8,7 @@
 
 - ✉️ Contact me at **zedsalim@proton.me**
 
-- <i class="fa-brands fa-linkedin-in"></i> Connect with me on [LinkedIn](https://www.linkedin.com/in/zedsalim)
+- :link: Connect with me on [LinkedIn](https://www.linkedin.com/in/zedsalim)
 
 - 💀 I told my computer a joke, but it didn't laugh. It said **Segmentation Fault**
 
