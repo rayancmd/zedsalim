@@ -28,7 +28,8 @@
  <ul>
         <li><a href="https://garandatech.com" target="_blank">Garanda Tech</a> - A gaming store specializing in PC parts, accessories, and repair services.</li>
         <li><a href="https://shoealgeria.com" target="_blank">Shoe Algeria</a> - E-commerce website dedicated to footwear, offering a wide range of shoes for all occasions.</li>
-        <li><a href="https://csbouira.netlify.app" target="_blank">CS Bouira</a> - Educational website providing courses, exams, and PDF resources for students at my university.</li>
+        <li><a href="https://csbouira.netlify.app" target="_blank">CS Bouira V1</a> - Educational website providing courses, exams, and PDF resources for students at my university.</li>
+        <li><a href="https://csbouira.xyz" target="_blank">CS Bouira V2</a> - Educational website providing courses, exams, and PDF resources for students at my university.</li>
     </ul>
 
 <h2 align="left">Languages and Tools:</h2>
@@ -48,6 +49,8 @@
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40">](https://www.w3schools.com/html/)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40">](https://www.w3schools.com/css/)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40">](https://www.javascript.com/)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" alt="Bootstrap" width="40" height="40"/>](https://www.php.net/)
+[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40"/>](https://getbootstrap.com/)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40">](https://c-faq.com/)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40">](https://www.python.org/)
 [<img src="https://img.icons8.com/color/48/000000/assembly.png" alt="x86 Assembly" width="40" height="40">](https://en.wikipedia.org/wiki/X86_assembly_language)
