@@ -45,7 +45,6 @@
 [<img src="kubernetes.png" alt="Kubernetes" width="40" height="40">](https://kubernetes.io/)
 [<img src="proxmox.png" alt="Proxmox" width="40" height="40">](https://www.proxmox.com/proxmox-ve/)
 [<img src="https://img.icons8.com/color/48/000000/virtual-machine.png" alt="Virtualization" width="40" height="40">](https://en.wikipedia.org/wiki/Virtualization)
-[<img src="aws.png" alt="AWS" width="40" height="40">](https://aws.amazon.com/)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40">](https://www.w3schools.com/html/)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40">](https://www.w3schools.com/css/)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40">](https://www.javascript.com/)
@@ -53,7 +52,6 @@
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40"/>](https://getbootstrap.com/)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40">](https://c-faq.com/)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40">](https://www.python.org/)
-[<img src="https://img.icons8.com/color/48/000000/assembly.png" alt="x86 Assembly" width="40" height="40">](https://en.wikipedia.org/wiki/X86_assembly_language)
 [<img src="flask.png" alt="Flask" width="40" height="40">](https://flask.palletsprojects.com/)
 [<img src="WordPress.png" alt="WodrPress" width="40" height="40">](https://www.wordpress.org/)
 [<img src="cpanel.png" alt="cpanel" width="40" height="40">](https://www.cpanel.net/)
@@ -62,8 +60,6 @@
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="SQLite" width="40" height="40">](https://www.sqlite.org/)
 [<img src="ps.png" alt="Photoshop" width="40" height="40">](https://en.wikipedia.org/wiki/Adobe_Photoshop)
 [<img src="gdb.svg" alt="GDB" width="40" height="40">](https://www.gnu.org/software/gdb/)
-[<img src="ghidra.png" alt="Ghidra" width="40" height="40">](https://ghidra-sre.org/)
-[<img src="r2.png" alt="Radare2" width="40" height="40">](https://rada.re/n/)
 
 <h2 align="left">Github Stats:</h2>
 
