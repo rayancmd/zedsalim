@@ -28,8 +28,8 @@
  <ul>
         <li><a href="https://garandatech.com" target="_blank">Garanda Tech</a> - A gaming store specializing in PC parts, accessories, and repair services.</li>
         <li><a href="https://shoealgeria.com" target="_blank">Shoe Algeria</a> - E-commerce website dedicated to footwear, offering a wide range of shoes for all occasions.</li>
-        <li><a href="https://csbouira-old.netlify.app" target="_blank">CS Bouira V1 (old)</a> - Educational website providing courses, exams, and PDF resources for students at my university.</li>
         <li><a href="https://csbouira.xyz" target="_blank">CS Bouira V2 (new)</a> - Educational website providing courses, exams, and PDF resources for students at my university.</li>
+        <li><a href="https://csbouira-old.netlify.app" target="_blank">CS Bouira V1 (old)</a> - Educational website providing courses, exams, and PDF resources for students at my university.</li>
     </ul>
 
 <h2 align="left">Languages and Tools:</h2>
