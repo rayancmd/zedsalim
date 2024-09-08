@@ -50,10 +50,9 @@
 ![](https://img.shields.io/badge/Git-informational?style=flat&logo=git&logoColor=white&color=2F6C92)
 ![](https://img.shields.io/badge/Docker-informational?style=flat&logo=docker&logoColor=white&color=2F6C92)
 ![](https://img.shields.io/badge/Kubernetes-informational?style=flat&logo=kubernetes&logoColor=white&color=2F6C92)
+![](https://img.shields.io/badge/Ansible-informational?style=flat&logo=ansible&logoColor=white&color=2F6C92)
 ![](https://img.shields.io/badge/Virtualization-informational?style=flat&logo=virtualbox&logoColor=white&color=2F6C92)
-![](https://img.shields.io/badge/Proxmox-informational?style=flat&logo=proxmox&logoColor=white&color=2F6C92)
-![](https://img.shields.io/badge/cPanel-informational?style=flat&logo=cpanel&logoColor=white&color=2F6C92)
-![](https://img.shields.io/badge/Webmin-informational?style=flat&logo=webmin&logoColor=white&color=2F6C92) , ![](https://img.shields.io/badge/Nginx-informational?style=flat&logo=nginx&logoColor=white&color=2F6C92)
+![](https://img.shields.io/badge/Proxmox-informational?style=flat&logo=proxmox&logoColor=white&color=2F6C92), ![](https://img.shields.io/badge/Nginx-informational?style=flat&logo=nginx&logoColor=white&color=2F6C92)
 ![](https://img.shields.io/badge/Apache-informational?style=flat&logo=apache&logoColor=white&color=2F6C92)
 ![](https://img.shields.io/badge/OpenLiteSpeed-informational?style=flat&logo=openlitespeed&logoColor=white&color=2F6C92) , 
 ![](https://img.shields.io/badge/MySQL-informational?style=flat&logo=mysql&logoColor=white&color=2F6C92)
