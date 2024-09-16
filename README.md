@@ -42,6 +42,7 @@
 ![](https://img.shields.io/badge/Django-informational?style=flat&logo=django&logoColor=white&color=2F6C92)
 ![](https://img.shields.io/badge/Flask-informational?style=flat&logo=flask&logoColor=white&color=2F6C92)
 ![](https://img.shields.io/badge/WordPress-informational?style=flat&logo=wordpress&logoColor=white&color=2F6C92)
+![](https://img.shields.io/badge/TailwindCSS-informational?style=flat&logo=tailwindcss&logoColor=white&color=2F6C92)
 ![](https://img.shields.io/badge/Bootstrap-informational?style=flat&logo=bootstrap&logoColor=white&color=2F6C92) ,
 ![](https://img.shields.io/badge/Linux-informational?style=flat&logo=linux&logoColor=white&color=2F6C92)
 ![](https://img.shields.io/badge/Windows-informational?style=flat&logo=windows&logoColor=white&color=2F6C92) , 
