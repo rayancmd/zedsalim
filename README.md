@@ -16,12 +16,13 @@
 <h2 align="left">Interests:</h2>
 
 - 🖥️ Configuring and maintaining servers & Home-Labs
-- 🌐 Web Development
-- 🐧 Linux & Sysadmin stuff
-- 🖧 Networking & Cloud
-- 🐳 Docker & Kubernetes
-- 🔧 Automation using Bash & Python
 - 💣 Binary Exploitation & Reverse Engineering
+- 🌐 Web Development & Security
+- 🐧 Linux & Sysadmin stuff
+- 🖧 Networking & DevOps stuff
+- 🐳 Docker & Kubernetes & Ansible
+- 🔧 Automation using Bash & Python
+- 🔎 Web Scraping
 - 💡 Problem Solving
 - 🎨 Design
 
