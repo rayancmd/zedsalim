@@ -5,9 +5,9 @@
 <h1 align="center">Hi 👋, I'm Salim Zaidi</h1>
 <h2 align="center">Computer Science student passionate about System Administration, Web Development, and Low-Level Programming</h2>
 
-- 🚀 All of my projects are available at my [Github](https://github.com/zedsalim)
+- 🚀 All of my projects are available at my [Portfolio](https://salimzaidi.site)
 
-- ✉️ Contact me at **zedsalim@proton.me**
+- ✉️ Contact me at **contact@salimzaidi.site**
 
 - :link: Connect with me on [LinkedIn](https://www.linkedin.com/in/zedsalim)
 
@@ -57,7 +57,8 @@
 ![](https://img.shields.io/badge/Proxmox-informational?style=flat&logo=proxmox&logoColor=white&color=2F6C92), ![](https://img.shields.io/badge/Nginx-informational?style=flat&logo=nginx&logoColor=white&color=2F6C92)
 ![](https://img.shields.io/badge/Apache-informational?style=flat&logo=apache&logoColor=white&color=2F6C92)
 ![](https://img.shields.io/badge/OpenLiteSpeed-informational?style=flat&logo=openlitespeed&logoColor=white&color=2F6C92) , 
-![](https://img.shields.io/badge/MySQL-informational?style=flat&logo=mysql&logoColor=white&color=2F6C92)
+![](https://img.shields.io/badge/PostgreSQL-informational?style=flat&logo=mysql&logoColor=white&color=2F6C92)
+![](https://img.shields.io/badge/MySQL-informational?style=flat&logo=postgresql&logoColor=white&color=2F6C92)
 ![](https://img.shields.io/badge/SQLite-informational?style=flat&logo=sqlite&logoColor=white&color=2F6C92)
 ![](https://img.shields.io/badge/Firebase-informational?style=flat&logo=firebase&logoColor=white&color=2F6C92) , 
 ![](https://img.shields.io/badge/GDB-informational?style=flat&logo=gnu&logoColor=white&color=2F6C92) , ![](https://img.shields.io/badge/Photoshop-informational?style=flat&logo=adobe-photoshop&logoColor=white&color=2F6C92)
