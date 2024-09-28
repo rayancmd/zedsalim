@@ -16,7 +16,7 @@
 <h2 align="left">Interests:</h2>
 
 - 🖥️ Configuring and maintaining servers & Home-Labs
-- 💣 Binary Exploitation & Reverse Engineering
+- 💣 Pentesting & Binary Exploitation
 - 🌐 Web Development & Security
 - 🐧 Linux & Sysadmin stuff
 - 🖧 Networking & DevOps stuff
