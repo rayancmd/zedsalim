@@ -32,7 +32,6 @@
 ![](https://img.shields.io/badge/Python-informational?style=flat&logo=python&logoColor=white&color=2F6C92)
 ![](https://img.shields.io/badge/Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2F6C92)
 ![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2F6C92)
-![](https://img.shields.io/badge/PHP-informational?style=flat&logo=php&logoColor=white&color=2F6C92)
 ![](https://img.shields.io/badge/HTML5-informational?style=flat&logo=html5&logoColor=white&color=2F6C92)
 ![](https://img.shields.io/badge/CSS3-informational?style=flat&logo=css3&logoColor=white&color=2F6C92)
 
