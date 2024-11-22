@@ -4,6 +4,9 @@
 
 <h1 align="center">Hi 👋, I'm Salim Zaidi</h1>
 <h2 align="center">Computer Science student passionate about System Administration, Web Development, and Low-Level Programming</h2>
+<div align="center">
+    <img src="https://komarev.com/ghpvc/?username=zedsalim&style=for-the-badge&color=2F6C92" alt="profile-views"/> 
+</div>
 
 - 🚀 All of my projects are available at my [Portfolio](https://salimzaidi.site)
 
